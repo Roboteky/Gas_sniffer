@@ -64,6 +64,8 @@ A real-time gas monitoring and alert system using MQ9 and MQ2 sensors, designed 
 
 Messages sent to the authorities include:
 
+The message payload [  →  {{ location }}, {{ temperature recorded }}, {{ Gas detected }} & {{ Combustible or Non-combustible }}.  ] —  Message to Authority.
+
 ## 🧪 Testing & Deployment
 
 - Simulate gas levels using lighter near sensor (carefully).
