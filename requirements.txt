@@ -1,0 +1,11 @@
+# A minimum of two gas sensors. [  MQ9  &  MQ2  ]
+# A dashboard showcasing the readings of the two gas sensors. [ Account & Admin ]
+# Notification pushed to whatsapp // SMS [ TWILLIO ] // Max three numbers when levels are too high.
+# A display to show the values being recorded // Notifications being pushed.
+# A temperature sensor.
+# LED’s for status recording.
+# Location / GSM  → Incase no WIFI the GSM sends the data.
+# A Fan to represent an extractor. 
+
+
+# The message payload [  →  {{ location }}, {{ temperature recorded }}, {{ Gas detected }} & {{ Combustible or Non-combustible }}.  ] —  Message to Authority.
