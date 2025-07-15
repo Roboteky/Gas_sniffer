@@ -85,9 +85,9 @@ EMERGENCY_NUMBERS = [
     "+2547XXXXXXX3"
 ]
 
-## 📞 Emergency Contact Setup
+📞 Emergency Contact Setup
  MIT License – Free to use with attribution.
 
-## 🤝 Contributors
+🤝 Contributors
 Developed by: [ QUANT ELECTRICS ]
 Contact: [ kirumba693@gmail.com ]
