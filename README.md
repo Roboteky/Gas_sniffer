@@ -1,4 +1,4 @@
-# 🛑 Gas Sniffer Project
+# 🛑 Gas_Sniffer 
 
 A real-time gas monitoring and alert system using MQ9 and MQ2 sensors, designed to detect harmful gases and alert authorities or users via WhatsApp, SMS, and a visual dashboard. The system integrates safety features like a fan (extractor), LED indicators, GSM fallback for remote connectivity, and real-time location tracking.
 
